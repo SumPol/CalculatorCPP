@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\polina\source\repos\cpp_calculator\cpp_calculator\myform.h(1082): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+c:\users\polina\source\repos\cpp_calculator\cpp_calculator\myform.h(1083): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  CPP_Calculator.vcxproj -> C:\Users\Polina\source\repos\CPP_Calculator\Debug\CPP_Calculator.exe
